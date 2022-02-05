@@ -30,10 +30,8 @@ DSSG proposal -- friday
 
 - [ ] questionnaires
 
-<details><summary>DR</summary>
+<details><summary>?</summary>
 
-`i'm hidden?`
-
-maybe
+`fuck off`
 
 </details>
